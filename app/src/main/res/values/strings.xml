@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">SuiteElectrica</string>
+    <string name="inicio">Inicio</string>
+    <string name="extras">Extras</string>
+    <string name="Funciones">Funciones</string>
+    <string name="Sugerencias">Sugerencias</string>
+    <string name="SobreNosotros">Sobre Nosotros</string>
+    <string name="colaboreNosotros">Colabore con Nosotros</string>
+    <string name="Salir">Salir</string>
+    <string name="Colaboracion">En Colaboracion con</string>
+    <string name="Version">Version</string>
+    <string name="Contacto">Contacto</string>
+    <string name="DeltaEstrella">Conversor Delta-Estrella</string>
+    <string name="LeydeOhm">Ley de Ohm</string>
+    <string name="CalcularPotencia">Calcular Potencia</string>
+    <string name="Convertir">Convertir</string>
+    <string name="potencia">Potencia</string>
+    <string name="DeltaAEstrella">Delta A Estrella </string>
+    <string name="EstrellaADelta">Estrella A Delta</string>
+    <string name="Voltaje">Voltaje(V)</string>
+    <string name="Resistencia">Resistencia(R)</string>
+    <string name="Corriente">Corriente(I)</string>
+    <string name="Valor_Ra">Valor Ra:</string>
+    <string name="Valor_Rb">Valor Rb:</string>
+    <string name="Valor_Rc">Valor Rc:</string>
+    <string name="Valor_R1">Valor R1:</string>
+    <string name="Valor_R2">Valor R2:</string>
+    <string name="Valor_R3">Valor R3:</string>
+    <string name="Calcular">Calcular</string>
+    <string name="valores">¿Que valores tienes?</string>
+    <string name="Voltaje_resistencia">Voltaje-Resistencia</string>
+    <string name="Corriente_resistencia">Corriente-Resistencia</string>
+    <string name="voltaje_corriente">Voltaje-Corriente</string>
+    <string name="configuracion">Configuracion</string>
+    <string name="SobreNosotrosEs">¿Que es SuiteElectrica?</string>
+    <string name="queessuite">SuiteElectrica es una aplicacion educativa de libre uso para aquellos estudiantes y docentes, que tienen
+    como objetivo: calcular y probar diferentes operaciones orientadas al campo de la Ingenieria Electrica y Fisica De Campos.</string>
+    <string name="fuente">La app fue desarrollada por un estudiante de Ingenieria De Sistemas en coolaboracion con estudiantes de
+    Ingenieria Electrica, quienes facilitaron las formulas correspondientes</string>
+    <string name="Fuente">Fuente</string>
+    <string name="Sugerencia">Sugerencia</string>
+    <string name="Sugerir">Para enviar sugerencias</string>
+    <string name="ParaSugerir">Para hacerle llegar una Sugerencia al desarrollador, tenga en cuenta lo siguiente.</string>
+    <string name="Sugerencia1">1. Buena Redaccion</string>
+    <string name="Sugerencia2">2. Coherencia en lo que se sugiere</string>
+    <string name="Sugerencia3">3. Buen Lenguaje</string>
+    <string name="Trabaja">Para Colaborar con nosotros debe tener en cuenta</string>
+    <string name="traba1">Este apartado va orientado a aquellas personas que quieran voluntariamente participar en el desarrollo y mantencion
+    de la app, asi como de su posible traslado a otras plataformas</string>
+    <string name="politica">términos, condiciones y politicas de privacidad</string>
+    <string name="obser">"Tus Observaciones, la información del sistema y tu correo electronico se enviaran al desarrollador. Consulta los términos, condiciones y politicas de privacidad"
+</string>
+    <string name="Enviar">Enviar</string>
+    <string name="Nombres">Nombres: </string>
+    <string name="Apellidos">Apellidos: </string>
+    <string name="Telefono">Telefono: </string>
+    <string name="Correo">Correo: </string>
+    <string name="Programador">Programador: </string>
+    <string name="trabajeconmigo">Si desea ponerse en contacto con el desarrollador para colaborar en el proceso de desarrollo. Por
+    favor rellenar los campos de abajo y enviarle los datos al desarrollador, quien se pondra en contacto con uds en la menor brevedad
+    posible</string>
+
+    <string name="calcular">Calcular</string>
+    <string name="Borrar">Borrar</string>
+    <string name="enviar">Enviar</string>
+    <string name="resultado">Resultado</string>
+    <string name="reseña">Esta app ha sido desarrollada como un proyecto de   semillero   de   investigacion </string>
+    <string name="reseña2">para   el  desarrollo del software movil.</string>
+
+    <string name="codigoapp">El codigo fuente de esta app se encuentra disponible en el github del desarrollador.</string>
+
+    <string name="paramasinf">Para mas informacion puede contactar al desarrollador, al final se encuentra su informacion de contacto.</string>
+
+    <string name="versiona">Version 1.0</string>
+    <string name="developer">Desarrollador: Winston Jr Rodriguez Stand</string>
+    <string name="cont">Contacto: wijurost@gmail.com</string>
+    <string name="instagram">winstonrodriguez</string>
+    <string name="facebook">Winston Jr Rodriguez Stand</string>
+    <string name="Informacion">Informacion</string>
+    <string name="Comenzar">Comenzar</string>
+    <string name="ayuda1">Escoja una funcion para seguir</string>
+    <string name="ayuda2">Una vez escogida una funcion</string>
+    <string name="ayuda3">Escoja una opcion</string>
+    <string name="ayuda4">Ingrese los datos de los campos requeridos</string>
+    <string name="ayuda5">Pulse aceptar para conocer su resultado, y borrar para limpiar los campos"</string>
+    <string name="ayuda6">En el campo resultado, se vera reflejado dicho resultado</string>
+    <string name="Ayuda">Ayuda</string>
+
+
+    <string-array name="Conversiones">
+        <item>Conversor DeltaEstrella</item>
+        <item>Ley de Ohm</item>
+        <item>Calcular Potencia</item>
+
+
+    </string-array>
+</resources>

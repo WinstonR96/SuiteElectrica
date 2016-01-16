@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/inicio"
+            android:checked="true"
+            android:icon="@mipmap/ic_inicio"
+            android:title="@string/inicio" />
+
+        <item
+            android:id="@+id/funcionsection"
+            android:title="@string/Funciones">
+        <menu>
+
+            <item
+                android:id="@+id/deltaestrella"
+                android:icon="@mipmap/ic_cursos"
+                android:title="@string/DeltaEstrella" />
+            <item
+                android:id="@+id/leydeohm"
+                android:icon="@mipmap/ic_cursos"
+                android:title="@string/LeydeOhm"/>
+
+            <item
+                android:id="@+id/calpotencia"
+                android:icon="@mipmap/ic_cursos"
+                android:title="@string/CalcularPotencia"/>
+        </menu>
+        </item>
+
+
+
+
+
+        <!-- Sección de configuración -->
+        <item
+            android:id="@+id/configuration_section"
+            android:title="@string/extras">
+            <menu>
+
+                <item
+                    android:id="@+id/sugerencias"
+                    android:icon="@mipmap/ic_sugerencia"
+                    android:title="@string/Sugerencias" />
+                <item
+                    android:id="@+id/acercade"
+                    android:icon="@mipmap/ic_inf"
+                    android:title="@string/SobreNosotros" />
+
+                <item
+                    android:id="@+id/colabore"
+                    android:icon="@mipmap/ic_colabore"
+                    android:title="@string/colaboreNosotros" />
+
+                <item
+                    android:id="@+id/informacion"
+                    android:icon="@mipmap/ic_informacion"
+                    android:title="@string/Informacion"/>
+                <item
+                    android:id="@+id/cerrar"
+                    android:icon="@mipmap/ic_salir"
+                    android:title="@string/Salir" />
+            </menu>
+        </item>
+    </group>
+
+</menu>

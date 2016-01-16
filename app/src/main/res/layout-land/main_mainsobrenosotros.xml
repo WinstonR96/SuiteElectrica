@@ -1,0 +1,166 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/fondoa">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/scrollView" >
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/SobreNosotrosEs"
+                android:id="@+id/textView"
+                android:textSize="@dimen/titulo"
+                android:textStyle="bold"/>
+            <View
+                android:layout_width="wrap_content"
+                android:layout_height="15dp"
+                android:background="@android:color/transparent"
+                android:id="@+id/linea1">
+            </View>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/queessuite"
+                android:textSize="@dimen/textTamaño"
+                android:id="@+id/textView2" />
+
+
+
+
+            <View
+                android:layout_width="wrap_content"
+                android:layout_height="15dp"
+                android:background="@android:color/transparent"
+                android:id="@+id/linea4"
+                >
+
+            </View>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/Fuente"
+                android:id="@+id/textView9"
+                android:textStyle="bold"
+                android:textSize="@dimen/titulo"/>
+
+            <View
+                android:layout_width="wrap_content"
+                android:layout_height="15dp"
+                android:background="@android:color/transparent"
+                android:id="@+id/linea5"
+                >
+
+            </View>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/fuente"
+                android:id="@+id/textView10"
+                android:textSize="@dimen/textTamaño"/>
+
+            <View
+                android:layout_width="wrap_content"
+                android:layout_height="15dp"
+                android:background="@android:color/transparent"
+                android:id="@+id/linea6"
+                >
+
+            </View>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/Sugerencias"
+                android:id="@+id/textView11"
+                android:textSize="@dimen/titulo"
+                android:textStyle="bold"/>
+            <View
+                android:layout_width="wrap_content"
+                android:layout_height="15dp"
+                android:background="@android:color/transparent"
+                android:id="@+id/linea7"
+                >
+
+            </View>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/Sugerencia1"
+                android:id="@+id/textView13"
+                android:textSize="@dimen/textTamaño"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/Sugerencia2"
+                android:id="@+id/textView14"
+                android:textSize="@dimen/textTamaño"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/Sugerencia3"
+                android:id="@+id/textView15"
+                android:textSize="@dimen/textTamaño"/>
+
+            <View
+                android:layout_width="wrap_content"
+                android:layout_height="15dp"
+                android:background="@android:color/transparent"
+                android:id="@+id/linea8"
+                >
+
+            </View>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/Trabaja"
+                android:id="@+id/textView16"
+                android:textSize="@dimen/titulo"
+                android:textStyle="bold"/>
+
+            <View
+                android:layout_width="wrap_content"
+                android:layout_height="15dp"
+                android:background="@android:color/transparent"
+                android:id="@+id/linea9"
+                >
+
+            </View>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/traba1"
+                android:id="@+id/textView17"
+                android:textSize="@dimen/textTamaño"
+                />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>
